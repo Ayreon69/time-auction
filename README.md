@@ -2,7 +2,7 @@
 
 **Quelques minutes chacun pour toute la partie. On mise du temps en gardant le doigt appuyé : le dernier à lâcher gagne le jeton, et tout le monde paie le temps qu'il a tenu.**
 
-👉 **Jouer : https://time-auction.onrender.com** (la première ouverture peut prendre jusqu'à une minute, le temps que le serveur gratuit se réveille)
+👉 **Jouer : https://time-auction-n8jc.onrender.com** (la première ouverture peut prendre jusqu'à une minute, le temps que le serveur gratuit se réveille)
 
 Jeu d'enchères multijoueur en temps réel, à jouer entre amis depuis un navigateur, sur téléphone ou ordinateur, sans compte ni installation.
 D'après *Time Auction*, l'épreuve de la prison du 2e jour de *The Devil's Plan : Death Room* (saison 2, Netflix). Création de fans, non officielle, avec ses propres visuels.
