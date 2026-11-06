@@ -1,0 +1,11 @@
+{
+  "name": "Time Auction",
+  "short_name": "Time Auction",
+  "description": "Garde le doigt appuyé : le dernier à lâcher gagne, tout le monde paie le temps tenu.",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#120e0b",
+  "theme_color": "#120e0b",
+  "icons": [{ "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml" }]
+}
