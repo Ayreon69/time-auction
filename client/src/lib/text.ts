@@ -38,5 +38,5 @@ export function durationLine(players: number, f: Format): string {
   const n = Math.max(2, players);
   const { rounds, bank } = FORMATS[f];
   const min = Math.round((bank / 600) * n * 0.5 + (rounds * 12) / 60);
-  return `${rounds} enchères, ${Math.round(bank / 600)} minutes chacun : environ ${Math.max(5, Math.round(min / 5) * 5)} min de partie à ${n}.`;
+  return `${rounds} enchères, ${Math.round(bank / 600)} minutes chacun : environ ${Math.max(5, Math.round(min / 5) * 5)} min de partie à ${n}.`;
 }

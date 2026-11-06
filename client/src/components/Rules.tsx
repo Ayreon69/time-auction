@@ -92,7 +92,7 @@ export function RulesModal() {
               {FORMAT_KEYS.map((f, i) => (
                 <span key={f}>
                   {i > 0 && (i === FORMAT_KEYS.length - 1 ? ' et ' : ', ')}
-                  <b>{FORMAT_LABEL[f]}</b> ({FORMATS[f].rounds} enchères, {Math.round(FORMATS[f].bank / 600)} min)
+                  <b>{FORMAT_LABEL[f]}</b> ({FORMATS[f].rounds}{' '}enchères, {Math.round(FORMATS[f].bank / 600)}{' '}min)
                 </span>
               ))}
               .

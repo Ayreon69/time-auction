@@ -57,7 +57,7 @@ export function Final({ view }: { view: RoomView }) {
 
         <motion.section className={cls('final-hero', good && 'is-good')} initial={{ y: 18, opacity: 0 }} animate={{ y: 0, opacity: 1 }} transition={{ duration: 0.5 }}>
           <span className="eyebrow">
-            Partie terminée · {FORMAT_LABEL[final.format]}, {final.rounds} enchères
+            Partie terminée · {FORMAT_LABEL[final.format]}, {final.rounds}{' '}enchères
           </span>
           <h1>{title}</h1>
           <p className="final-reason">{reason}</p>
